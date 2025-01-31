@@ -18,6 +18,6 @@
 
 💾🎮🛠️ During my studies, I developed a strong interest in the "lower-level" aspects of software development, particularly through my thesis project to design an educational 8-bit microcontroller simulator. This solidified my passion for computer science and programming. Recently, I completed a 12-week Unity game engine bootcamp, which has further fueled my interest in the more creative side of development. I'm currently working on building my own game engine in C++, using the Windows Console for displaying graphics to gain a deeper understanding of game engine design and advanced programming.
 
-🤝🌱🧠 My background in healthcare instilled in me essential skills such as communication, teamwork and careful decision-making, and the desire to continually develop myself. I want to bring these qualities to my software development career. I'm eager to take on roles that push my knowledge and allow me to grow and ultimately be in a position to help others develop their skills. 
+🤝🌱🧠 My background in healthcare instilled in me essential skills such as communication, teamwork and thoughtful decision-making, and the desire to continually develop myself. I want to bring these qualities to my software development career. I'm eager to take on roles that push my knowledge and allow me to grow and ultimately be in a position to help others develop their skills. 
 
 🚀 Thank you for visiting my profile! Feel free to explore my projects, and reach out if you'd like to connect or collaborate.
